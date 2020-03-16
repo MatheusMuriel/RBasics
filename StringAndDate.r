@@ -1,0 +1,1 @@
+d <- as.Date("15081947", format="%d%m%Y")
